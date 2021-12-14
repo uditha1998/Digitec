@@ -1202,7 +1202,7 @@ select {
 }
 
 .header-cart .cart-btn .count {
-  width: 20px;
+/*  width: 20px;
   height: 20px;
   line-height: 20px;
   text-align: center;
@@ -1214,7 +1214,8 @@ select {
   color: #ffffff;
   position: absolute;
   top: -5px;
-  right: -10px;
+  right: -10px;*/
+display: none;
 }
 
 .dropdown-cart {

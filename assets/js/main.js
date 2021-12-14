@@ -305,11 +305,10 @@
     var swiper = new Swiper('.service-2-active', {
         slidesPerView: 3,
         spaceBetween: 30,
-        loop: true,
-        pagination: {
-            el: ".service-2-active .swiper-pagination",
-            clickable: true,
-        },
+        autoplay: true,
+        autoplayTimeout:2000,
+         loop: true,
+       
         breakpoints: {
           0: {
             slidesPerView: 1,

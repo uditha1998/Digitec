@@ -1,8 +1,8 @@
-<div id="header" class="section header-section transparent-header">
+<div id="header" class="section header-section transparent-header" style="height: 9%">
             <div class="container">
 
                 <!-- Header Wrap Start  -->
-                <div class="header-wrap">
+                <div class="header-wrap" style="margin-top: -8px">
 
                     <div class="header-logo">
                         <a href="index-2.html"><img src="assets/images/logo/digitech-logo.jpeg" alt="digitech-logo"></a>
@@ -12,14 +12,7 @@
                         <ul class="main-menu">
                             <li class="active-menu">
                                 <a href="index-2.html">Home</a>
-                                <ul class="sub-menu">
-                                    <li><a href="index-2.html">Home One</a></li>
-                                    <li><a href="index-3.html">Home Two</a></li>
-                                    <li><a href="index-4.html">Home Three</a></li>
-                                    <li><a href="index-5.html">Home Four</a></li>
-                                    <li class="active"><a href="index-6.html">Home Five</a></li>
-                                    <li><a href="index-7.html">Home Six</a></li>
-                                </ul>
+                             
                             </li>
                             <li>
                                 <a href="about.html">Aboute Us</a>
@@ -53,12 +46,12 @@
                                 <i class="fas fa-phone-alt"></i>
                             </div>
                             <div class="info-text">
-                                <span>Free Consultant</span>
+                                <span>Call us Now!</span>
                                 <span class="number"><a href="#">+36 55 540 069</a></span>
                             </div>
                         </div>
                         <!-- Header Info End -->
-                       
+                      
 
                        
                         <!-- Header Toggle Start -->

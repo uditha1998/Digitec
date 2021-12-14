@@ -114,15 +114,13 @@
                 <img src="assets/images/hero-5-shape-2.png" alt="">
             </div>
             <div class="container">
-                <div class="row">
+                <div class="row" style="margin-bottom: 200px">
                     <div class="col-lg-12">
                         <!-- Hero Content Start -->
                         <div class="hero-content text-center">
                             <h3 class="sub-title" data-aos-delay="600" data-aos="fade-up">Technology Releted Consultancy</h3>
                             <h2 class="title" data-aos="fade-up" data-aos-delay="700">Fast, reliable & afforadble IT service for you</h2>
-                            <div class="hero-btn" data-aos="fade-up" data-aos-delay="900">
-                                <a class="btn" href="#">Read More</a>
-                            </div>
+                          
                         </div>
                         <!-- Hero Content End -->
                     </div>
@@ -170,59 +168,91 @@
         </div>
         <!-- About End -->
 
-        <!--  Skill Start -->
-        <div class="section skill-section skill-section-5">
+          <!-- Service-2 Start -->
+          <div class="section service-section-2 section-padding-03" style="margin-top: -350px">
             <div class="container">
-                <!--  Skill Image Wrap Start -->
-                <div class="skill-img-wrap">
-                    <div class="row">
-                        <div class="col-lg-4 col-sm-6">
-                            <!--  Skill Image Item Start -->
-                            <div class="skill-img-item">
-                                <div class="skill-img text-center">
-                                    <a class="image" href="#"><img src="assets/images/skill/skill-5.jpg" alt=""></a>
-                                    <div class="skill-img-text">
-                                        <h3 class="title"><a href="#">Data Security</a></h3>
+                <!-- Service-2 Wrap Start -->
+                <div class="service-wrap-2">
+                  
+                    <!-- Service-2 Content Wrap Start -->
+                    <div class="service-content-wrap-2">
+                        <div class="swiper-container service-2-active">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <!-- Service Item Start -->
+                                    <div class="service-item">
+                                        <div class="service-img">
+                                            <div class="shape-1"></div>
+                                            <div class="shape-2"></div>
+                                            <a class="image" href="#"><img src="assets/images/service/s-img-1.jpg" alt=""></a>
+                                            <div class="service-img-text text-center">
+                                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote team of incredible freelance</p>
+                                            </div>
+                                        </div>
+                                        <div class="service-content">
+                                            <h3 class="title"><a href="#">Strategy & Discovery</a></h3>
+                                            <a class="read-more" href="#"><i class="fas fa-long-arrow-alt-right"></i></a>
+                                        </div>
                                     </div>
+                                    <!-- Service Item End -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- Service Item Start -->
+                                    <div class="service-item">
+                                        <div class="service-img">
+                                            <div class="shape-1"></div>
+                                            <div class="shape-2"></div>
+                                            <a class="image" href="#"><img src="assets/images/service/s-img-2.jpg" alt=""></a>
+                                            <div class="service-img-text text-center">
+                                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote team of incredible freelance</p>
+                                            </div>
+                                        </div>
+                                        <div class="service-content">
+                                            <h3 class="title"><a href="#">Software Solution</a></h3>
+                                            <a class="read-more" href="#"><i class="fas fa-long-arrow-alt-right"></i></a>
+                                        </div>
+                                    </div>
+                                    <!-- Service Item End -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- Service Item Start -->
+                                    <div class="service-item">
+                                        <div class="service-img">
+                                            <div class="shape-1"></div>
+                                            <div class="shape-2"></div>
+                                            <a class="image" href="#"><img src="assets/images/service/s-img-3.jpg" alt=""></a>
+                                            <div class="service-img-text text-center">
+                                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote team of incredible freelance</p>
+                                            </div>
+                                        </div>
+                                        <div class="service-content">
+                                            <h3 class="title"><a href="#">Technology Consulting</a></h3>
+                                            <a class="read-more" href="#"><i class="fas fa-long-arrow-alt-right"></i></a>
+                                        </div>
+                                    </div>
+                                    <!-- Service Item End -->
                                 </div>
                             </div>
-                            <!--  Skill Image Item Start -->
-                        </div>
-                        <div class="col-lg-4 col-sm-6">
-                            <!--  Skill Image Item Start -->
-                            <div class="skill-img-item">
-                                <div class="skill-img text-center">
-                                    <a class="image" href="#"><img src="assets/images/skill/skill-6.jpg" alt=""></a>
-                                    <div class="skill-img-text">
-                                        <h3 class="title"><a href="#">IT Managment</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--  Skill Image Item Start -->
-                        </div>
-                        <div class="col-lg-4 col-sm-6">
-                            <!--  Skill Image Item Start -->
-                            <div class="skill-img-item">
-                                <div class="skill-img text-center">
-                                    <a class="image" href="#"><img src="assets/images/skill/skill-7.jpg" alt=""></a>
-                                    <div class="skill-img-text">
-                                        <h3 class="title"><a href="#">Digital Marketing</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--  Skill Image Item Start -->
+
+                          
                         </div>
                     </div>
+                    <!-- Service-2 Content Wrap End -->
                 </div>
-                <!--  Skill Image Wrap End -->
+                <!-- Service-2 Wrap End -->
+                <div class="row jusify-content-center">
+                <div class="case-study-btn text-center">
+                    <a class="btn" href="#">See More Services</a>
+                </div>
+            </div>
             </div>
         </div>
-        <!--  Skill End -->
+        <!-- Service-2 End -->
 
        
 
         <!-- Features Start -->
-        <div class="section features-section-7" style="margin-top: 150px">
+        <div class="section features-section-7" >
             <div class="container">
                 <!-- Features Wrap Start -->
                 <div class="features-wrap">
@@ -284,43 +314,20 @@
         </div>
         <!-- Features End -->
 
+      
+
+     
+
         <!-- Counter Start -->
-        <div class="section counter-section counter-section-2 counter-section-3 section-padding" style="background-image: url(assets/images/bg/counter-bg-3.jpg);">
+        <div class="section counter-section" style="background-image: url(assets/images/bg/counter-bg.jpg);">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-7">
-                        <!-- Experience Content Start -->
-                        <div class="experience-content">
-                            <div class="experience">
-                                <h2 class="number">25+</h2>
-                                <span>Years of experience</span>
-                            </div>
-                            <div class="experience-text">
-                                <h3 class="title">We specialise in helping <span>customers digitise</span> business Including IT</h3>
-                            </div>
-                        </div>
-                        <!-- Experience Content End -->
-                    </div>
-                    <div class="col-lg-5">
-                        <!-- Service Content Start -->
-                        <div class="service-content">
-                            <ul class="service-list">
-                                <li class="list"><a href="#">IT Management <i class="fas fa-long-arrow-alt-right"></i></a></li>
-                                <li class="list"><a href="#">Networking & Resource Mangment <i class="fas fa-long-arrow-alt-right"></i></a></li>
-                                <li class="list"><a href="#">Data Security <i class="fas fa-long-arrow-alt-right"></i></a></li>
-                            </ul>
-                        </div>
-                        <!-- Service Content End -->
-                    </div>
-                </div>
-                <!-- Counter Wrap Start -->
                 <div class="counter-wrap">
                     <div class="row">
                         <div class="col-lg-3 col-sm-6">
                             <!-- Counter Item Start -->
-                            <div class="counter-item">
+                            <div class="counter-item text-center">
                                 <div class="counter-icon">
-                                    <img src="assets/images/features-5.png" alt="">
+                                    <img src="assets/images/counter/counter-1.png" alt="">
                                 </div>
                                 <div class="counter-text">
                                     <span>
@@ -333,9 +340,9 @@
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <!-- Counter Item Start -->
-                            <div class="counter-item">
+                            <div class="counter-item text-center">
                                 <div class="counter-icon">
-                                    <img src="assets/images/features-12.png" alt="">
+                                    <img src="assets/images/counter/counter-2.png" alt="">
                                 </div>
                                 <div class="counter-text">
                                     <span>
@@ -348,9 +355,9 @@
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <!-- Counter Item Start -->
-                            <div class="counter-item">
+                            <div class="counter-item text-center">
                                 <div class="counter-icon">
-                                    <img src="assets/images/features-6.png" alt="">
+                                    <img src="assets/images/counter/counter-3.png" alt="">
                                 </div>
                                 <div class="counter-text">
                                     <span>
@@ -363,9 +370,9 @@
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <!-- Counter Item Start -->
-                            <div class="counter-item">
+                            <div class="counter-item text-center">
                                 <div class="counter-icon">
-                                    <img src="assets/images/features-4.png" alt="">
+                                    <img src="assets/images/counter/counter-4.png" alt="">
                                 </div>
                                 <div class="counter-text">
                                     <span>
@@ -378,128 +385,9 @@
                         </div>
                     </div>
                 </div>
-                <!-- Counter Wrap End -->
             </div>
-
         </div>
         <!-- Counter End -->
-
-        <!-- Testimonial Start -->
-        <div class="section testimonial-section-7">
-            <div class="container">
-                <!-- Testimonial Wrap Start -->
-                <div class="testimonial-wrap section-padding" style="background-image: url(assets/images/bg/testi-bg-5.png);">
-                    <div class="section-title2 text-center">
-                        <h2 class="title"><span>20k+ clients </span> love our service & IT releted solutions </h2>
-                    </div>
-                    <!-- Testimonial Slider Wrap Start -->
-                    <div class="testimonial-slider-wrap">
-                        <div class="swiper-container testimonial-7-active slider-bullet">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <!-- Single Testimonial Start -->
-                                    <div class="single-testimonial">
-                                        <div class="testimonial-content">
-                                            <div class="testimonial-quote">
-                                                <i class="flaticon-left-quote"></i>
-                                            </div>
-                                            <p>Accelerate innovation with world-class tech teams Beyond more stoic this along goodness hey this this wow manatee </p>
-                                            <div class="testimonial-author">
-                                                <div class="author-thumb">
-                                                    <img src="assets/images/author-2.jpg" alt="">
-                                                </div>
-                                                <div class="author-text">
-                                                    <span class="name">Michel Holder</span>
-                                                    <span class="designation">CEO, Harlond inc</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Single Testimonial End -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- Single Testimonial Start -->
-                                    <div class="single-testimonial">
-                                        <div class="testimonial-content">
-                                            <div class="testimonial-quote">
-                                                <i class="flaticon-left-quote"></i>
-                                            </div>
-                                            <p>Accelerate innovation with world-class tech teams Beyond more stoic this along goodness hey this this wow manatee </p>
-                                            <div class="testimonial-author">
-                                                <div class="author-thumb">
-                                                    <img src="assets/images/author-3.jpg" alt="">
-                                                </div>
-                                                <div class="author-text">
-                                                    <span class="name">Michel Holder</span>
-                                                    <span class="designation">CEO, Harlond inc</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Single Testimonial End -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- Single Testimonial Start -->
-                                    <div class="single-testimonial">
-                                        <div class="testimonial-content">
-                                            <div class="testimonial-quote">
-                                                <i class="flaticon-left-quote"></i>
-                                            </div>
-                                            <p>Accelerate innovation with world-class tech teams Beyond more stoic this along goodness hey this this wow manatee </p>
-                                            <div class="testimonial-author">
-                                                <div class="author-thumb">
-                                                    <img src="assets/images/author-4.jpg" alt="">
-                                                </div>
-                                                <div class="author-text">
-                                                    <span class="name">Michel Holder</span>
-                                                    <span class="designation">CEO, Harlond inc</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Single Testimonial End -->
-                                </div>
-                            </div>
-
-                            <!-- Add Pagination -->
-                            <div class="swiper-pagination"></div>
-                        </div>
-                    </div>
-                    <!-- Testimonial Slider Wrap End -->
-                </div>
-                <!-- Testimonial Wrap End -->
-            </div>
-        </div>
-        <!-- Testimonial End -->
-
-        <!-- Cta Start -->
-        <div class="section cta-section-4 section-padding-03" style="background-image: url(assets/images/bg/cta-4-bg.jpg);">
-            <div class="container">
-                <!-- Cta Wrap Start -->
-                <div class="cta-wrap">
-                    <div class="row align-items-center">
-                        <div class="col-lg-7">
-                            <!-- Cta Left Start -->
-                            <div class="cta-left">
-                                <img src="assets/images/cta-icon.png" alt="">
-                                <h2 class="title">Let's make something beautiful together with us</h2>
-                            </div>
-                            <!-- Cta Left End -->
-                        </div>
-                        <div class="col-lg-5">
-                            <!-- Cta Right Start -->
-                            <div class="cta-right text-center">
-                                <h3 class="title">Call us for fast support </h3>
-                                <a class="btn" href="#">+44 920 090 505</a>
-                            </div>
-                            <!-- Cta Right End -->
-                        </div>
-                    </div>
-                </div>
-                <!-- Cta Wrap End -->
-            </div>
-        </div>
-        <!-- Cta End -->
 
         <!-- Brand Logo Start -->
         <div class="section faq-section section-padding-03">

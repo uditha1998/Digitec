@@ -5,7 +5,7 @@
                 <div class="header-wrap">
 
                     <div class="header-logo">
-                        <a href="index-2.html"><img src="assets/images/logo/digitech-logo.jpeg" alt=""></a>
+                        <a href="index-2.html"><img src="assets/images/logo/digitech-logo.jpeg" alt="digitech-logo"></a>
                     </div>
                    
                     <div class="header-menu d-none d-lg-block">
@@ -58,88 +58,9 @@
                             </div>
                         </div>
                         <!-- Header Info End -->
-                        <!-- Header Search Start -->
-                        <div class="header-search">
-                            <a class="search-btn" href="#"><i class="flaticon-loupe"></i></a>
-                            <div class="search-wrap">
-                                <div class="search-inner">
-                                    <i id="search-close" class="flaticon-close search-close"></i>
-                                    <div class="search-cell">
-                                        <form action="#">
-                                            <div class="search-field-holder">
-                                                <input class="main-search-input" type="search" placeholder="Search Your Keyword...">
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Header Search End -->
+                       
 
-                        <!-- Header Cart Start -->
-                        <div class="header-cart dropdown">
-                            <button class="cart-btn" data-bs-toggle="dropdown">
-                                <i class="flaticon-shopping-cart"></i>
-                                <span class="count">0</span>
-                            </button>
-                            <!-- Header Dropdown Cart Start -->
-                            <div class="dropdown-menu dropdown-cart">
-                                <!-- Dropdown Cart Items Start -->
-                                <div class="cart-items">
-                                    <!-- Single Cart Item Start -->
-                                    <div class="single-cart-item">
-                                        <div class="item-image">
-                                            <img src="assets/images/shop-cart-1.jpg" alt="cart">
-                                        </div>
-                                        <div class="item-content">
-                                            <h4 class="title"><a href="#">Apple Iphone X</a></h4>
-                                            <span class="quantity">2 x $59.99</span>
-                                        </div>
-                                        <button class="btn-close"></button>
-                                    </div>
-                                    <!-- Single Cart Item End -->
-                                    <!-- Single Cart Item Start -->
-                                    <div class="single-cart-item">
-                                        <div class="item-image">
-                                            <img src="assets/images/shop-cart-2.jpg" alt="cart">
-                                        </div>
-                                        <div class="item-content">
-                                            <h4 class="title"><a href="#">Sony Xperia Tablet</a></h4>
-                                            <span class="quantity">2 x $59.99</span>
-                                        </div>
-                                        <button class="btn-close"></button>
-                                    </div>
-                                    <!-- Single Cart Item End -->
-                                    <!-- Single Cart Item Start -->
-                                    <div class="single-cart-item">
-                                        <div class="item-image">
-                                            <img src="assets/images/shop-cart-3.jpg" alt="cart">
-                                        </div>
-                                        <div class="item-content">
-                                            <h4 class="title"><a href="#">Camera Digital</a></h4>
-                                            <span class="quantity">2 x $59.99</span>
-                                        </div>
-                                        <button class="btn-close"></button>
-                                    </div>
-                                    <!-- Single Cart Item End -->
-                                </div>
-                                <!-- Dropdown Cart Items End -->
-                                <!-- Dropdown Cart Total Start -->
-                                <div class="cart-total">
-                                    <span class="label">Subtotal:</span>
-                                    <span class="value">0</span>
-                                </div>
-                                <!-- Dropdown Cart Total End -->
-                                <!-- Dropdown Cart Button Start -->
-                                <div class="cart-btns">
-                                    <a class="btn" href="#">View Cart</a>
-                                    <a class="btn btn-2" href="#">Checkout</a>
-                                </div>
-                                <!-- Dropdown Cart Button End -->
-                            </div>
-                            <!-- Header Dropdown Cart End -->
-                        </div>
-                        <!-- Header Cart End -->
+                       
                         <!-- Header Toggle Start -->
                         <div class="header-toggle d-lg-none">
                             <button data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample">

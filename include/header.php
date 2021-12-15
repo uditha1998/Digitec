@@ -5,27 +5,20 @@
                 <div class="header-wrap" style="margin-top: -8px">
 
                     <div class="header-logo">
-                        <a href="index-2.html"><img src="assets/images/logo/digitech-logo.jpeg" alt="digitech-logo"></a>
+                        <a href="index.php"><img src="assets/images/logo/digitech-logo.jpeg" alt="digitech-logo"></a>
                     </div>
                    
                     <div class="header-menu d-none d-lg-block">
                         <ul class="main-menu">
                             <li class="active-menu">
-                                <a href="index-2.html">Home</a>
+                                <a href="index.php">Home</a>
                              
                             </li>
                             <li>
-                                <a href="about.html">Aboute Us</a>
+                                <a href="about.php">Aboute Us</a>
                             </li>
-                            <li><a href="#">Pages</a>
-                                <ul class="sub-menu">
-                                    <li><a href="team.html">Our Team</a></li>
-                                    <li><a href="service.html">Service</a></li>
-                                    <li><a href="why-choose.html">Why Choose Us</a></li>
-                                    <li><a href="testimonial.html">Testimonial</a></li>
-                                    <li><a href="pricing.html">Pricing</a></li>
-                                    <li><a href="login-register.html">Login & Register</a></li>
-                                </ul>
+                            <li><a href="service.php">Service</a>
+                           
                             </li>
                             <li><a href="#">Blog</a>
                                 <ul class="sub-menu">
@@ -34,7 +27,7 @@
                                     <li><a href="blog-details.html">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </div>
 

@@ -390,7 +390,7 @@
             </div>
         </div>
         <!-- Counter End -->
-
+        
         <!-- Brand Logo Start -->
         <div class="section faq-section section-padding-03">
             <div class="container">
@@ -466,29 +466,36 @@
                 </div>
             </div>
         </div>
-    </div>
+ 
     <!-- Brand Logo End -->
 
-    <!-- Subscribe Start -->
-    <div class="section subscribe-section">
-        <div class="container">
-            <div class="subscribe-wrap">
-                <div class="row justify-content-center">
-                    <div class="col-lg-8">
-                        <div class="subscribe-title text-center">
-                            <h2 class="title">Subscribe Newsletters</h2>
-                            <p>Enter your email address to register to our newsletter </p>
+      
+      <!-- Cta Start -->
+        <div class="section cta-section">
+            <div class="container">
+                <div class="cta-wrap" style="background-image: url(assets/images/bg/cta-bg.jpg);">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6">
+                            <!-- Cta Left Start -->
+                            <div class="cta-left">
+                                <h2 class="title">Let's make something beautiful together</h2>
+                            </div>
+                            <!-- Cta Left End -->
                         </div>
-                        <form action="#">
-                            <input type="email" placeholder="Your Email">
-                            <button type="submit">Subscribe</button>
-                        </form>
+                        <div class="col-lg-6">
+                            <!-- Cta Right Start -->
+                            <div class="cta-right">
+                                <span class="number">+44 920 090 505</span>
+                                <a class="btn" href="#">See More Projects</a>
+                            </div>
+                            <!-- Cta Right End -->
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Subscribe End -->
+        <!-- Cta End -->
+  
 
     <!-- Footer Section Start -->
       <?php

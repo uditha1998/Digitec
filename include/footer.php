@@ -1,3 +1,31 @@
+    <!-- Cta Start -->
+        <div class="section cta-section">
+            <div class="container">
+                <div class="cta-wrap" style="background-image: url(assets/images/bg/cta-bg.jpg);">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6">
+                            <!-- Cta Left Start -->
+                            <div class="cta-left">
+                                <h2 class="title">Let's make something beautiful together</h2>
+                            </div>
+                            <!-- Cta Left End -->
+                        </div>
+                        <div class="col-lg-6">
+                            <!-- Cta Right Start -->
+                            <div class="cta-right">
+                                <span class="number">+94 760 627 214</span>
+                                <a class="btn" href="#">See More Projects</a>
+                            </div>
+                            <!-- Cta Right End -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Cta End -->
+
+
+
 <div class="section footer-section" style="background-image: url(assets/images/bg/footer-bg-3.jpg);">
 
     <div class="container">

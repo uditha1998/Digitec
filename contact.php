@@ -28,7 +28,14 @@
         <!-- Main Style CSS -->
         <link rel="stylesheet" href="assets/css/style.css">
 
-
+        <style>
+            .cta-section{
+                display: none;
+            }
+            .footer-widget-wrap-3{
+                padding-top: 100px;
+            }
+        </style>
 
     </head>
 
@@ -52,59 +59,7 @@
             ?>
             <!-- Header End -->
 
-            <!-- Offcanvas Start-->
-            <div class="offcanvas offcanvas-start" id="offcanvasExample">
-                <div class="offcanvas-header">
-                    <!-- Offcanvas Logo Start -->
-                    <div class="offcanvas-logo">
-                        <a href="index.php"><img src="assets/images/logo-white.png" alt=""></a>
-                    </div>
-                    <!-- Offcanvas Logo End -->
-                    <button type="button" class="close-btn" data-bs-dismiss="offcanvas"><i class="flaticon-close"></i></button>
-                </div>
-
-                <!-- Offcanvas Body Start -->
-                <div class="offcanvas-body">
-                    <div class="offcanvas-menu">
-                        <ul class="main-menu">
-                            <li>
-                                <a href="index-2.html">Home</a>
-                                <ul class="sub-menu">
-                                    <li><a href="index-2.html">Home One</a></li>
-                                    <li><a href="index-3.html">Home Two</a></li>
-                                    <li><a href="index-4.html">Home Three</a></li>
-                                    <li><a href="index-5.html">Home Four</a></li>
-                                    <li><a href="index-6.html">Home Five</a></li>
-                                    <li><a href="index-7.html">Home Six</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="about.html">Aboute Us</a>
-                            </li>
-                            <li><a href="#">Pages</a>
-                                <ul class="sub-menu">
-                                    <li><a href="team.html">Our Team</a></li>
-                                    <li><a href="service.html">Service</a></li>
-                                    <li><a href="why-choose.html">Why Choose Us</a></li>
-                                    <li><a href="testimonial.html">Testimonial</a></li>
-                                    <li><a href="pricing.html">Pricing</a></li>
-                                    <li><a href="login-register.html">Login & Register</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Blog</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog.html">Blog Grid</a></li>
-                                    <li><a href="blog-standard.html">Latest News</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                </ul>
-                            </li>
-                            <li class="active-menu"><a href="contact.html">Contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Offcanvas Body End -->
-            </div>
-            <!-- Offcanvas End -->
+           
 
 
             <!-- Page Banner Start -->
@@ -178,7 +133,7 @@
                                 <!--Single Contact Info End -->
                             </div>
                         </div>
-                        
+
                     </div>
                     <!-- Contact Info Wrap End -->
                 </div>
@@ -254,9 +209,9 @@
             <!-- Contact Form End -->
 
             <!-- Contact Map Start -->
-            <div class="section contact-map-section">
+            <div class="section contact-map-section" >
                 <div class="contact-map-wrap">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d680.265851219693!2d79.95634245661147!3d6.899789940319499!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2579d725104ef%3A0xbb7654ec8bb27550!2sDigitech%20Holdings%20(pvt)%20Ltd.!5e0!3m2!1sen!2slk!4v1639552957829!5m2!1sen!2slk"  style="border:0;" allowfullscreen="" loading="lazy"></iframe>                </div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d680.265851219693!2d79.95634245661147!3d6.899789940319499!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2579d725104ef%3A0xbb7654ec8bb27550!2sDigitech%20Holdings%20(pvt)%20Ltd.!5e0!3m2!1sen!2slk!4v1639552957829!5m2!1sen!2slk"  style="border:0;" allowfullscreen="" loading="lazy"></iframe>                </div>
             </div>
             <!-- Contact Map End -->
 

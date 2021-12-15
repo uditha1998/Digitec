@@ -52,59 +52,7 @@
         ?>
         <!-- Header End -->
 
-        <!-- Offcanvas Start-->
-        <div class="offcanvas offcanvas-start" id="offcanvasExample">
-            <div class="offcanvas-header">
-                <!-- Offcanvas Logo Start -->
-                <div class="offcanvas-logo">
-                    <a href="index-2.html"><img src="assets/images/logo-white.png" alt=""></a>
-                </div>
-                <!-- Offcanvas Logo End -->
-                <button type="button" class="close-btn" data-bs-dismiss="offcanvas"><i class="flaticon-close"></i></button>
-            </div>
-
-            <!-- Offcanvas Body Start -->
-            <div class="offcanvas-body">
-                <div class="offcanvas-menu">
-                    <ul class="main-menu">
-                        <li class="active-menu">
-                            <a href="index-2.html">Home</a>
-                            <ul class="sub-menu">
-                                <li><a href="index-2.html">Home One</a></li>
-                                <li><a href="index-3.html">Home Two</a></li>
-                                <li><a href="index-4.html">Home Three</a></li>
-                                <li><a href="index-5.html">Home Four</a></li>
-                                <li class="active"><a href="index-6.html">Home Five</a></li>
-                                <li><a href="index-7.html">Home Six</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="about.html">Aboute Us</a>
-                        </li>
-                        <li><a href="#">Pages</a>
-                            <ul class="sub-menu">
-                                <li><a href="team.html">Our Team</a></li>
-                                <li><a href="service.html">Service</a></li>
-                                <li><a href="why-choose.html">Why Choose Us</a></li>
-                                <li><a href="testimonial.html">Testimonial</a></li>
-                                <li><a href="pricing.html">Pricing</a></li>
-                                <li><a href="login-register.html">Login & Register</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Blog</a>
-                            <ul class="sub-menu">
-                                <li><a href="blog.html">Blog Grid</a></li>
-                                <li><a href="blog-standard.html">Latest News</a></li>
-                                <li><a href="blog-details.html">Blog Details</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="contact.html">Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-            <!-- Offcanvas Body End -->
-        </div>
-        <!-- Offcanvas End -->
+      
 
 
         <!-- Hero Start -->
@@ -470,31 +418,7 @@
     <!-- Brand Logo End -->
 
       
-      <!-- Cta Start -->
-        <div class="section cta-section">
-            <div class="container">
-                <div class="cta-wrap" style="background-image: url(assets/images/bg/cta-bg.jpg);">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6">
-                            <!-- Cta Left Start -->
-                            <div class="cta-left">
-                                <h2 class="title">Let's make something beautiful together</h2>
-                            </div>
-                            <!-- Cta Left End -->
-                        </div>
-                        <div class="col-lg-6">
-                            <!-- Cta Right Start -->
-                            <div class="cta-right">
-                                <span class="number">+44 920 090 505</span>
-                                <a class="btn" href="#">See More Projects</a>
-                            </div>
-                            <!-- Cta Right End -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Cta End -->
+ 
   
 
     <!-- Footer Section Start -->

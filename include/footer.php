@@ -7,7 +7,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <!-- Footer Widget Start -->
                     <div class="footer-widget-about">
-                        <a class="footer-logo" href="index-2.html"><img src="assets/images/logo-white.png" alt="Logo"></a>
+                        <a class="footer-logo" href="index-2.html"><img src="assets/images/logo/digitech-transperant.png" alt="Logo"></a>
                         <div class="widget-info">
                             <ul>
                                 <li>

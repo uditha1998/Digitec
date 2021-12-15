@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Techmax - Technology IT Solutions Consultancy HTML5 Template</title>
+    <title>About us</title>
     <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -76,7 +76,7 @@
                             </ul>
                         </li>
                         <li class="active-menu">
-                            <a href="about.html">Aboute Us</a>
+                            <a href="about.html">About Us</a>
                         </li>
                         <li><a href="#">Pages</a>
                             <ul class="sub-menu">
@@ -115,7 +115,7 @@
                             <div class="page-banner text-center">
                                 <h2 class="title">About Us</h2>
                                 <ul class="breadcrumb justify-content-center">
-                                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                                     <li class="breadcrumb-item active" aria-current="page">About Us</li>
                                 </ul>
                             </div>

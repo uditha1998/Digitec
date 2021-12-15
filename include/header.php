@@ -15,7 +15,7 @@
                              
                             </li>
                             <li>
-                                <a href="about.php">Aboute Us</a>
+                                <a href="about.php">About Us</a>
                             </li>
                             <li><a href="service.php">Service</a>
                            
@@ -40,7 +40,7 @@
                             </div>
                             <div class="info-text">
                                 <span>Call us Now!</span>
-                                <span class="number"><a href="#">+36 55 540 069</a></span>
+                                <span class="number"><a href="#">+94 760 627 214</a></span>
                             </div>
                         </div>
                         <!-- Header Info End -->

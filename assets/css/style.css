@@ -197,8 +197,9 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 /*--Section Spacing--*/
 .section-padding {
-    padding-top: 65px;
-    padding-bottom: 160px;
+
+    padding-top: 145px;
+    padding-bottom: 145px;
 }
 
 @media only screen and (max-width: 1199px) {
@@ -8658,7 +8659,9 @@ select {
 /*----------------------------------------*/
 .page-banner-section {
     padding-top: 80px;
+
     min-height: 350px;
+
     display: flex;
     align-items: center;
     background-repeat: no-repeat;
@@ -8700,14 +8703,18 @@ select {
 }
 
 .page-banner-section .shape-2 {
+
     width: 300px;
     height: 300px;
+
     border: 3px solid #005de0;
     opacity: 0.9;
     border-radius: 50%;
     position: absolute;
+
     left: -7%;
     bottom: -35%;
+
 }
 
 @media only screen and (max-width: 1199px) {
@@ -10424,7 +10431,7 @@ select {
 }
 
 .footer-widget-wrap-3 {
-  padding-top: 100px;
+    padding-top: 200px;
 }
 
 @media only screen and (max-width: 767px) {
@@ -10624,6 +10631,7 @@ select {
 
 .progress-wrap-3 svg.progress-circle path {
     stroke: #ff5538;
+
 }
 .no-paddng-top{
     padding-top: 0 !important; 
@@ -10634,6 +10642,7 @@ select {
 .service-page-padding{
     padding-top: 15px !important;
     padding-bottom: 20px !important;
+
 }
 .service-section-padding{
     padding-top: 75px !important;

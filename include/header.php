@@ -20,12 +20,8 @@
                             <li><a href="service.php">Service</a>
                            
                             </li>
-                            <li><a href="#">Blog</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog.html">Blog Grid</a></li>
-                                    <li><a href="blog-standard.html">Latest News</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                </ul>
+                            <li><a href="blog.php">Blog</a>
+                               
                             </li>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>
@@ -64,3 +60,57 @@
 
             </div>
         </div>
+
+ <!-- Offcanvas Start-->
+        <div class="offcanvas offcanvas-start" id="offcanvasExample">
+            <div class="offcanvas-header">
+                <!-- Offcanvas Logo Start -->
+                <div class="offcanvas-logo">
+                    <a href="index-2.html"><img src="assets/images/logo-white.png" alt=""></a>
+                </div>
+                <!-- Offcanvas Logo End -->
+                <button type="button" class="close-btn" data-bs-dismiss="offcanvas"><i class="flaticon-close"></i></button>
+            </div>
+
+            <!-- Offcanvas Body Start -->
+            <div class="offcanvas-body">
+                <div class="offcanvas-menu">
+                    <ul class="main-menu">
+                        <li>
+                            <a href="index-2.html">Home</a>
+                            <ul class="sub-menu">
+                                <li><a href="index-2.html">Home One</a></li>
+                                <li><a href="index-3.html">Home Two</a></li>
+                                <li><a href="index-4.html">Home Three</a></li>
+                                <li><a href="index-5.html">Home Four</a></li>
+                                <li><a href="index-6.html">Home Five</a></li>
+                                <li><a href="index-7.html">Home Six</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="about.html">Aboute Us</a>
+                        </li>
+                        <li><a href="#">Pages</a>
+                            <ul class="sub-menu">
+                                <li><a href="team.html">Our Team</a></li>
+                                <li><a href="service.html">Service</a></li>
+                                <li><a href="why-choose.html">Why Choose Us</a></li>
+                                <li><a href="testimonial.html">Testimonial</a></li>
+                                <li><a href="pricing.html">Pricing</a></li>
+                                <li><a href="login-register.html">Login & Register</a></li>
+                            </ul>
+                        </li>
+                        <li class="active-menu"><a href="#">Blog</a>
+                            <ul class="sub-menu">
+                                <li class="active"><a href="blog.html">Blog Grid</a></li>
+                                <li><a href="blog-standard.html">Latest News</a></li>
+                                <li><a href="blog-details.html">Blog Details</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- Offcanvas Body End -->
+        </div>
+        <!-- Offcanvas End -->

@@ -15,7 +15,6 @@
             <!-- Header End -->
 
             <div class="main">
-                <jsp:include page="/include/admin_top_nav.jsp"/>
                 
                  <?php
             include './include/admin_top_nav.php';

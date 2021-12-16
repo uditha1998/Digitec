@@ -821,12 +821,12 @@ select {
 
 .header-menu .main-menu li {
     position: relative;
-    padding: 30px 25px;
+    padding: 28px 25px;
 }
 
 @media only screen and (max-width: 1199px) {
     .header-menu .main-menu li {
-        padding: 30px 20px;
+        padding: 28px 20px;
     }
 }
 
@@ -8870,7 +8870,7 @@ select {
 }
 
 .sidebar-widget {
-    margin-top: 45px;
+    margin-top: 0px;
 }
 
 .sidebar-widget .search-form {
@@ -10431,7 +10431,7 @@ select {
 }
 
 .footer-widget-wrap-3 {
-    padding-top: 200px;
+    padding-top: 120px;
 }
 
 @media only screen and (max-width: 767px) {
@@ -10456,8 +10456,8 @@ select {
 
 .footer-copyright-area {
     border-top: 1px solid #1a253f;
-    padding-top: 15px;
-    padding-bottom: 30px;
+    padding-top: 0px;
+    padding-bottom: 15px;
 }
 
 .copyright-text {
@@ -10494,9 +10494,9 @@ select {
 }
 
 .copyright-social .social li a {
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
+    width: 30px;
+    height: 30px;
+    line-height: 33px;
     border-radius: 50%;
     text-align: center;
     background: #15203b;
@@ -10647,4 +10647,29 @@ select {
 .service-section-padding{
     padding-top: 75px !important;
     padding-bottom: 120px !important;
+}
+.ptb-75{
+    padding-top: 60px !important;
+    padding-bottom: 60px !important;
+}
+.pt-50{
+    padding-top: 50px !important; 
+}
+.pt-60{
+    padding-top: 60px !important;
+}
+.pt-70{
+    padding-top: 70px !important;
+}
+.pb-50{
+    padding-bottom : 50px !important; 
+}
+.pb-60{
+    padding-bottom: 60px !important;
+}
+.pb-70{
+    padding-bottom: 70px !important;
+}
+.mt-35{
+    margin-top: 35px !important;
 }

@@ -119,7 +119,7 @@
         <!-- About End -->
 
           <!-- Service-2 Start -->
-          <div class="section service-section-2 section-padding-03" style="margin-top: -350px">
+          <div class="section service-section-2 section-padding-03 pb-70" style="margin-top: -350px">
             <div class="container">
                 <!-- Service-2 Wrap Start -->
                 <div class="service-wrap-2">
@@ -191,7 +191,7 @@
                 </div>
                 <!-- Service-2 Wrap End -->
                 <div class="row jusify-content-center">
-                <div class="case-study-btn text-center">
+                <div class="case-study-btn text-center mt-35">
                     <a class="btn" href="#">See More Services</a>
                 </div>
             </div>

@@ -33,7 +33,7 @@
                 display: none;
             }
             .footer-widget-wrap-3{
-                padding-top: 100px;
+                padding-top: 50px;
             }
         </style>
 

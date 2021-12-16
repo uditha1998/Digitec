@@ -88,7 +88,7 @@
                             <!-- Single Blog Start -->
                             <div class="single-blog">
                                 <div class="blog-img">
-                                    <a href="blog-details.html"><img src="assets/images/blog/blog-1.jpg" alt=""></a>
+                                    <a href="blog-view.php"><img src="assets/images/blog/blog-1.jpg" alt=""></a>
                                     <div class="top-meta">
                                         <span class="date"><span>08</span>Aug</span>
                                     </div>
@@ -102,7 +102,7 @@
                                     <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote.</p>
                                 </div>
                                 <div class="blog-btn">
-                                    <a class="blog-btn-link" href="blog-details.html">Read Full Article <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    <a class="blog-btn-link" href="blog-view.php">Read Full Article <i class="fas fa-long-arrow-alt-right"></i></a>
                                 </div>
                             </div>
                             <!-- Single Blog End -->

@@ -79,7 +79,7 @@
         <!-- Page Banner End -->
 
         <!-- Blog Start -->
-        <div class="section blog-section section-padding pt-70 pb-50">
+        <div class="section blog-section section-padding">
             <div class="container">
                 <!-- Blog Grid Wrap Start -->
                 <div class="blog-grid-wrap">

@@ -53,7 +53,7 @@
 
 
         <!-- Page Banner Start -->
-        <div class="section page-banner-section" style="background-image: url(assets/images/page-banner.jpg);">
+        <div class="section page-banner-section " style="background-image: url(assets/images/page-banner.jpg);">
             <div class="shape-2"></div>
             <div class="container">
                 <div class="page-banner-wrap">
@@ -76,7 +76,7 @@
         <!-- Page Banner End -->
 
         <!-- About Start -->
-        <div class="section about-section section-padding">
+        <div class="section about-section section-padding pt-70 pb-50">
             <div class="container">
                 <!-- About Wrap Start -->
                 <div class="about-wrap">

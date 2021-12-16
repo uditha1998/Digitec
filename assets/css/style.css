@@ -7477,7 +7477,7 @@ select {
 }
 
 .single-blog .blog-content {
-    padding: 40px;
+    padding: 20px;
 }
 
 @media only screen and (max-width: 991px) {
@@ -8520,14 +8520,14 @@ select {
 
 .contact-info-section .contact-info-wrap .single-contact-info .info-content p {
 
-  font-size: 22px;
-  line-height: 36px;
-  font-family: "Manrope", sans-serif;
-  font-weight: 700;
-  color: #005de0;
-  text-decoration: none;
-  -webkit-text-decoration-color: #7faeef;
-          text-decoration-color: #7faeef;
+    font-size: 22px;
+    line-height: 36px;
+    font-family: "Manrope", sans-serif;
+    font-weight: 700;
+    color: #005de0;
+    text-decoration: none;
+    -webkit-text-decoration-color: #7faeef;
+    text-decoration-color: #7faeef;
 }
 
 @media only screen and (max-width: 1199px) {
@@ -8659,9 +8659,7 @@ select {
 /*----------------------------------------*/
 .page-banner-section {
     padding-top: 80px;
-
     min-height: 350px;
-
     display: flex;
     align-items: center;
     background-repeat: no-repeat;
@@ -8670,6 +8668,8 @@ select {
     position: relative;
     overflow: hidden;
     z-index: 1;
+    background-image: url(../../assets/images/bg/cta-4-bg.jpg) !important;
+
 }
 
 @media only screen and (max-width: 1199px) {
@@ -8870,7 +8870,7 @@ select {
 }
 
 .sidebar-widget {
-    margin-top: 45px;
+    margin-top: 0px;
 }
 
 .sidebar-widget .search-form {
@@ -10647,4 +10647,26 @@ select {
 .service-section-padding{
     padding-top: 75px !important;
     padding-bottom: 120px !important;
+}
+.ptb-75{
+    padding-top: 60px !important;
+    padding-bottom: 60px !important;
+}
+.pt-50{
+   padding-top: 50px !important; 
+}
+.pt-60{
+    padding-top: 60px !important;
+}
+.pt-70{
+    padding-top: 70px !important;
+}
+.pb-50{
+   padding-bottom : 50px !important; 
+}
+.pb-60{
+    padding-bottom: 60px !important;
+}
+.pt-70{
+    padding-bottom: 70px !important;
 }

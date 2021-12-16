@@ -1,8 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="en">
 
-
-    <!-- Mirrored from thepixelcurve.com/html/techmax/techmax/service.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 13 Dec 2021 06:36:29 GMT -->
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -137,7 +135,7 @@
             <!-- Page Banner End -->
 
             <!-- Features Start -->
-            <div class="section features-section-3 features-section-4 section-padding service-section-padding">
+            <div class="section features-section-3 features-section-4 section-padding service-section-padding pb-50">
                 <div class="container">
                     <!-- Features Wrap Start -->
                     <div class="features-wrap-3">
@@ -325,7 +323,6 @@
     <script src="assets/js/plugins/jquery.magnific-popup.min.js"></script>
 
 
-    <!--====== Use the minified version files listed below for better performance and remove the files listed above ======-->
 
 
     <!-- Main JS -->

@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Service Manage</title>
+        <title>Project Manage</title>
         <link href="css/modern.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
@@ -24,7 +24,7 @@
 
                         <div class="header">
                             <h1 class="header-title">
-                                Add Service
+                                Add Project
                             </h1>
 
                         </div>

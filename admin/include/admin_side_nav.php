@@ -29,7 +29,7 @@
             </li>
 
             <li class="sidebar-item">
-                <a data-bs-target="#project"  class="sidebar-link">
+                <a data-bs-target="#project"  class="sidebar-link" href="project.php">
                     <i class="align-middle me-2 fas fa-fw fa-globe"></i> <span class="align-middle">Project</span>
                 </a>
             </li>

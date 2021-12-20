@@ -3159,9 +3159,10 @@ select {
 }
 
 .service-section-2 .service-wrap-2 .service-content-wrap-2 .service-item .service-content .title {
-    font-size: 24px;
+    font-size: 20px;
     line-height: 30px;
     color: #231e32;
+    width: 85%;
 }
 
 @media only screen and (max-width: 1399px) {

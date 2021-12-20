@@ -65,37 +65,77 @@
 
 
 
-     
-        <!-- Hero Start -->
-        <div class="section tech-hero-section" style="background-image: url(assets/images/hero-1.jpg);">
-            <div class="shape-1"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <!-- Hero Content Start -->
-                        <div class="hero-content">
-                            <h3 class="sub-title" data-aos-delay="600" data-aos="fade-up">Technology Releted Consultancy</h3>
-                            <h2 class="title" data-aos="fade-up" data-aos-delay="700">We bring great Ideas to life</h2>
-                            <p data-aos="fade-up" data-aos-delay="800">We provide the most responsive and functional IT design for companies and businesses worldwide.</p>
-                            <div class="hero-btn" data-aos="fade-up" data-aos-delay="900">
-                                <a class="btn" href="#">Read More</a>
+            <!-- Hero Start -->
+            <div class="section tech-hero-section-5 d-flex align-items-center" style="background-image: url(assets/images/hero-5.jpg);">
+                <div class="shape-1">
+                    <img src="assets/images/hero-5-shape.png" alt="">
+                </div>
+                <div class="shape-2">
+                    <img src="assets/images/hero-5-shape-2.png" alt="">
+                </div>
+                <div class="container">
+                    <div class="row" style="margin-bottom: 200px">
+                        <div class="col-lg-12">
+                            <!-- Hero Content Start -->
+                            <div class="hero-content text-center">
+                                <h3 class="sub-title" data-aos-delay="600" data-aos="fade-up">Technology Releted Consultancy</h3>
+                                <h2 class="title" data-aos="fade-up" data-aos-delay="700">Fast, reliable & afforadble IT service for you</h2>
+
                             </div>
+                            <!-- Hero Content End -->
                         </div>
-                        <!-- Hero Content End -->
                     </div>
                 </div>
             </div>
-        </div>
-        <!-- Hero End -->
+            <!-- Hero End -->
 
+            <!-- About Start -->
+            <div class="section about-section-5 section-padding-03" style="background-image: url(assets/images/bg/ser-2-bg.png);">
+                <div class="container">
+                    <!-- About Wrap Start -->
+                    <div class="about-wrap">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <!-- About Left Start -->
+                                <div class="about-left">
+                                    <div class="section-title">
+                                        <h3 class="sub-title">Who We Are</h3>
+                                        <h2 class="title">We specialise in helping our customers digitise their business</h2>
+                                    </div>
+                                </div>
+                                <!-- About Left End -->
+                            </div>
+                            <div class="col-lg-6">
+                                <!-- About Right Start -->
+                                <div class="about-right">
+                                    <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote team of incredible freelance talent for all your software development needs.</p>
+                                    <div class="about-author">
+                                        <div class="author-img">
+                                            <img src="assets/images/sign-2.png" alt="">
+                                        </div>
+                                        <div class="author-text">
+                                            <h4 class="name">Mita Walker</h4>
+                                            <span class="designation">CEO, Digitech</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- About Right End -->
+                            </div>
+                        </div>
+                    </div>
+                    <!-- About Wrap End -->
+                </div>
+            </div>
+            <!-- About End -->
 
             <!-- Service-2 Start -->
-            <div class="section service-section-2 section-padding-03 pb-70" style="margin-top: -400px">
+            <div class="section service-section-2 section-padding-03 pb-70" style="margin-top: -350px">
                 <div class="container">
                     <!-- Service-2 Wrap Start -->
                     <div class="service-wrap-2">
 
                         <!-- Service-2 Content Wrap Start -->
+                            <!-- Service-2 Content Wrap Start -->
                         <div class="service-content-wrap-2">
                             <div class="swiper-container service-2-active">
                                 <div class="swiper-wrapper">
@@ -176,6 +216,7 @@
 
                             </div>
                         </div>
+                        <!-- Service-2 Content Wrap End -->
                         <!-- Service-2 Content Wrap End -->
                     </div>
                     <!-- Service-2 Wrap End -->
@@ -349,7 +390,7 @@
                     <div class="case-study-wrap">
                         <div class="section-title text-center">
                             <h3 class="sub-title">Who We Are</h3>
-                            <h2 class="title">We are proud team of great project</h2>
+                            <h2 class="title">Here Are Some Of our Greatest Projects</h2>
                         </div>
                     </div>
                 </div>
